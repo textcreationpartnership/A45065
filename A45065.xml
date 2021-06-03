@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of the Presbyterian ministers and professors of the church, to the high commissioner and Parliament of Scotland</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45065</idno><idno type="EEBO-CITATION">12306434</idno>
+  <idno type="VID">59270</idno>
+  <idno type="EEBO-PROQUEST">2264200305</idno>
+  
+            <idno type="STC">Wing H3572A</idno>
+            <idno type="STC">ESTC R1837</idno>
+            <idno type="OCLC">12306434</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 188:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of the Presbyterian ministers and professors of the church, to the high commissioner and Parliament of Scotland</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edinburgh, and re-printed at London, by George Croom ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Church history --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:59270:1"/>
+            <head>The Humble Petition OF THE Presbyterian Ministers, and Professors of the Church, to the High Commissioner and Parliament of <hi>Scotland,</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat as we cannot but acknowledge and adore the holy and Righteous Dispensa<g ref="char:EOLhyphen"/>tion of the Lord, in all the great and long continued Afflictions, wherewith he hath Afflicted us for our Sins; so we are not a little filled with Admiration at the great and wonderful Providence of our most gracious God, <hi>who alone doth great wonders, for his Mercy endureth for ever,</hi> That at such a time, when our strength was gone, and there was none to Deliver, he mercifully stirred up that Pious and Magnanimous Prince, <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> then <hi>Prince of Orange,</hi> now, by the good hand of God, our Gracious Soveraign, to Espouse the Interest of the Protestant Religion, and of the afflicted Ministers and Profes<g ref="char:EOLhyphen"/>sors thereof in these Kingdoms, and hath <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ssed him in so Heroick and Noble an under<g ref="char:EOLhyphen"/>taking, with agreeable Success: As also hath raised up your Lordships, our most Noble and Honourable Patriots, to joyn heartily with His <hi>Majesty,</hi> in appearing zealously for securing of the Protestant Religion in this Kingdom, and for what may tend to the bet<g ref="char:EOLhyphen"/>ter establishment thereof in all its concerns; and in evidencing your just Indignation against the Corruptions of Church and State, in your Lordships Claim of Right: And particularly, by freeing us of the Yoke of Prelacy, and of the undue Power and Ec<g ref="char:EOLhyphen"/>clesiastical Supremacy in Church-matters, formerly established in the Supream Magis<g ref="char:EOLhyphen"/>trat. And as these your Lordships zealous beginnings of appearing for the intrest of the Protestant Religion, and Professors thereof, have been and are great matter of joy to our Hearts, and of blessing and magnifying our Lord and Master in your Lordships be<g ref="char:EOLhyphen"/>half; So they are a Door Hope to us, and to all that love the true reformed Protestant Religion in this Land, That his Grace, His <hi>Majesties</hi> High Commissioner, and this ho<g ref="char:EOLhyphen"/>nourable Court of Parliament, will in your Station, go on zealously in your begun Work of purging this poor oppressed Church, from all Corruptions brought into it, by Ambiti<g ref="char:EOLhyphen"/>ous and Covetous Church-men, <hi>who sought their own things, but not the things of Jesus Christ;</hi> and from all the sad Consequenses, which have followed upon the Erecting of Prelacy; Such as were, the driving several hundreds of Ministers, all at one time, out of their Churches, without either Accusation or Citation, and the filling of their places with Ignorant and Scandalous Persons; (which His <hi>Majesty</hi> is graciously pleased to no<g ref="char:EOLhyphen"/>tice in His Declaration for <hi>Scotland,</hi> as an occasion of all this poor Churches miseries, and from which insupportable Sufferings, He Declared His resolution to relieve and rescue us) And we may add, with many also erroneous, and unfound in the Faith, ene<g ref="char:EOLhyphen"/>mies to the Reformation, and who have now appeared dissafected to the present Civil Government; As also the framing of a numerous Train of Severe Laws, severally exe<g ref="char:EOLhyphen"/>cuted both on Ministers and People of all Degrees, so far that even while <hi>we were coun<g ref="char:EOLhyphen"/>ted</hi> and treated <hi>as sheep for the slaughter,</hi> we might not Petition nor Complain, without rendring our selves highly Criminal by the Laws and Acts then made. All which, we hope, the Commissioner His Grace, and your Lorships this present Parliament, will take to your serious Consideration, and will free this poor Oppressed Church from such Oppressors and Oppressions, and settle it again upon the right Foundations of Govern<g ref="char:EOLhyphen"/>ment and Discipline, agreeable to the Word of God, and Eastablished in this Church by Law, near an Hundred Years ago. Which Settlement we are confident, will prove the best Remedy of all our otherwise incurable Distractions, and the means of
+<pb facs="tcp:59270:2"/>quieting and uniting the whole Country, in a joynt and firm opposition against all His <hi>Majesties</hi> and your Lordships Enemies.</p>
+            <p>We, therefore His Majesties most Loyal Subjects, and your Lordships most humble and dutiful Servants in Christ, Humbly beseech the Commissioner his Grace, and the Honourable Estates of Parliament, seeing the King's <hi>Majesty</hi> hath declared, and your Lordships with him have Zealously appeared for the Protestant Religion, You would be Graciously pleased, by your Civil Sanction, to Establish and Ratifie the late Confes<g ref="char:EOLhyphen"/>sion of Faith, with the Larger and Shorter Catechisms, (which contain the Summ and Substance of the Doctrine of the Reformed Churches) The Directory of Worship, and Presbyterial Church-Government and Discipline, all agreeable to the Word of God, and formerly received by the General Consent of this Nation. And seeing Prelacy; and all who have entred under Prelacy, have been Imposed upon the Church, without her Consent in any of he Free General Assemblies, and that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>resbyterial Government can<g ref="char:EOLhyphen"/>not be secure in the hands of them, who are of contrary Principles: Therefore we humbly Petition, that the Church-Government may be Established in the Hands of such only, who by their former Carriage and Sufferings, have evinced, that they are known sound Presbyterians, and well affected to His <hi>Majesties</hi> Government; or who, hereafter shall be found to be such, (which we are hopeful by the Grace of God shall be managed with such Christian Prudence, Moderation and Tenderness, as shall leave no just matter of Complaint to any.) And that not only these Ministers yet Alive, who were unjustly thrust from their Churches, may be Restored thereunto, and these Parishes and Flocks at that time, no less violently imposed upon, may be freed from Intruders; but also all other Presbyterian Ministers, who either are already, or may be by respective Flocks called hereafter, may have access to be settled in Churches, after the Presbyterian way, as they shall be Ecclesiastically approved and Appointed, and may have your Lordships Civil Sanction added thereunto.</p>
+            <p>And we also Request, that the Church thus Established, may be allowed by your Lordships Civil Sanction, to Appoint Visitations for Purging out Insufficient, Negli<g ref="char:EOLhyphen"/>gent, Scandalous, and Erroneous Misters. And seing Patronage, which had their Rise in the most Corrupt and Latter Times of Antichristianism, have always been a great Grievance to the Church, as the Source and Fountain of a Corrupt Ministry, That these may be Abolished; And that the Church may be Estalished upon its former Good Foundation, Confirmed by many <hi>Acts of Parliament,</hi> since the year one Thousand five Hundred and Sixty. And that all <hi>Acts</hi> contrarit to the Government, that Ratifie Ceremonies, and Impose Punishments on Presbyterians, for Non-conformity, and for Worshiping God, according to their Principles, may be Abrogat, and as a good and necessary Means, for preserving the purity of the Church, your Lordships take Care, that Learned, Sound, and Godly Men be put in Universities and Seminaries of Learn<g ref="char:EOLhyphen"/>ing (humbly submitting to your Lordships Wisdom, the Method of Considering, and Effectuating these our desires.) Thus all things being done for the House of the God of Heaven, according to the Commandment of the God of Heaven, by your Lordships pious and wise managing these Affairs of the Church of Christ, This Poor long oppres<g ref="char:EOLhyphen"/>sed and tossed Church, may at length, through God's Blessing, Arrive at a sate and quiet Harbour, And the True Honour and Happiness of His Majesty, and your Lord<g ref="char:EOLhyphen"/>ships, as the signal Nursing Fathers of the Church of Christ in this Land, may be ad<g ref="char:EOLhyphen"/>vanced, and continued to futer Generations; And so the Blessing of the Church that was ready to perish, may remain still upon His Majesty, and your Lordships.</p>
+            <closer>And your Lordships Petitioners shall ever pray, that God may Bless and Protect the Persons of Their Majesties <hi>King WILLIAM</hi> and <hi>Queen MARY,</hi> long to Rule and Govern this Nation, and your <hi>Lordships</hi> under them.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Edinburgh:</hi> And Re-printed at <hi>London</hi> by <hi>George Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-street.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
